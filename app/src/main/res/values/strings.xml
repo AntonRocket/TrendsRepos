@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Trend repositories</string>
+
+    <string name="repositories">Репозиторий:</string>
+
+    <string name="owner">Владелец:</string>
+
+    <string name="day">day</string>
+
+    <string name="week">week</string>
+
+    <string name="month">month</string>
+
+</resources>
